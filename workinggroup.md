@@ -11,5 +11,5 @@ Anyone with a .gov or .mil email address can join by emailing listserv@listserv.
 
 ## Attend Weekly Implementation Support Meetings
 
-Weekly Implementation support meetings are held every Tuesday at GSA. To receive the most recent meeting information, join the listserv.
+Biweekly Implementation support meetings are held every other Tuesday at GSA. To receive the most recent meeting information, join the listserv.
 
